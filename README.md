@@ -48,7 +48,7 @@ The final data set is stored in SQL. The Neural Network model is exported as a H
 
 **Modeling / Results:** 
 
-I tested, trained, scaled, and modeled the transformed dataset with 3 different algorithms. 
+I tested, trained, scaled the transformed dataset, then modeled with 3 different algorithms. 
 
 The results shown below show while similar accuracies, the random forest trees algorithm with the adaptive booster provided the highest accuracy. 
 
