@@ -3,7 +3,7 @@
 
 
 
-**Project Description/Outline**
+**Project Description:**
 
 This project aims to create an algorithm to predict (with the highest accuracy as possible) the likelihood of a US citizen presenting mental illness (depression and anxiety) symptoms. This project will analyze a large dataset collected by the U.S Census Bureau of citizens that were surveyed to assess their recent mental health symptoms. This algorithm is targeted to assist community health planners to make more informed choices with allocating their funding to treat the most at-risk populations, making the largest impact to enable a more productive, mentally healthy communities.
 
