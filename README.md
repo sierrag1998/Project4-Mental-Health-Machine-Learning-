@@ -13,11 +13,10 @@ Created By: Sierra Gomez
 **Research Question to Answer:**
 
 Which classification algorithm produces the highest accuracy?
-Which patient demographic information improves the accuracy of the algorithm?
-Which supplemental data (mental health funding, clinic locations, etc) can improve the accuracy of the algorithm?
+
 
 **Hypothesis** 
-The neural network model will produce the highest accuracy, basic demographic information such as age, location, and sex will improve the accuracy, and supplemental data such as clinic locations will improve the accuracy of the algorithm.
+The neural network model will produce the highest accuracy.
 
 **Datasets to be used:**
 
